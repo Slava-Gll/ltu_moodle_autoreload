@@ -1,1 +1,1 @@
-https://github.com/Slava-Gll/ltu_moodle_autoreload/raw/master/autoreload.user.js
+https://github.com/Slava-Gll/ltu_moodle_autoreload/raw/master/autoreload_chat.user.js
