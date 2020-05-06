@@ -2,7 +2,7 @@
 // @name         auto click
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  auto click pay button
+// @description  auto reload moodle simple chat
 // @match        https://edu.spbftu.ru/mod/chat/*
 // @author       Slava_Gll
 // @grant        none
